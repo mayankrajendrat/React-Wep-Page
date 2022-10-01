@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-
+import './Card.css'
 function CardComponent() {
   return (
     <Card className="text-center">
